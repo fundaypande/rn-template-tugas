@@ -1,1 +1,0 @@
-# rn-template-tugas
